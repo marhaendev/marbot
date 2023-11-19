@@ -1,0 +1,36 @@
+{
+    "full": {
+      "ping": "Pong!!!",
+      "bot": "Bot activated",
+      "men": "Here is the menu",
+      "assalamualaikum": ["Waalaikumsalam"],
+     "desainkreatif": ["Halo kak, ini link canva pronya. Silakan diklik saja dan pastikan gabung ke tim \n*Marhaen Masih Ganteng* \nhttps:\/\/www.canva.com/brand/join?token=o3eaLkj23OdNCeopuSw3vg&referrer=team-invite* \n\n❗Dilarang share link ini ke manapun. Terima kasih🤗"],
+      "owner": "I am the owner"
+    },
+    "contains": {
+      "greeting": ["Hello!", "Hi there!", "Greetings!"],
+      "terima kasih": ["sama2"],
+      "makasih": ["sama2"],
+      "question": ["I'm not sure, can you clarify?", "Interesting question!"]
+    },
+    "starts_with": {
+      "hello": "Hello! How can I assist you?",
+      "start": "Welcome! Let's get started."
+    },
+    "ends_with": {
+      "bye": "Goodbye! Take care.",
+      "end": "That's the end of our conversation."
+    },
+    "regex": {
+      "^\\d+$": "It looks like you sent a number.",
+      "weather \\w+": "Sure, let me check the weather for you."
+    },
+    "exact_match": {
+      "Thank You": "You're welcome!",
+      "COMMAND": "This is a specific command response."
+    },
+    "command_prefix": {
+      "/help": "Sure, here is some help information.",
+      "/info": "I can provide information. What do you need?"
+    }
+  }
